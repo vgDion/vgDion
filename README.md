@@ -15,7 +15,7 @@
 
 - :desktop_computer: I’m learning golang and python.
 
-- :telescope: Exploring about ML in cybersecurity and cloud security.:shield:
+- :telescope: Exploring cloud security.:shield:
 
 - :zap: In my free time, I read tech articles.
 
