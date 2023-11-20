@@ -13,9 +13,9 @@
  ### :man_technologist: About Me :
   I am a cybersecurity student. <img src="https://media.giphy.com/media/fUqv7zNVW2QaHqEgSg/giphy.gif" width="30">
 
-- :desktop_computer: I’m learning golang and python.
+- :desktop_computer: I am actively learning and adapting in information security
 
-- :telescope: Exploring cloud security.:shield:
+- :telescope: I'm studying cloud security. Improve your cybersecurity skills, with a focus on SOC.:shield:
 
 - :zap: In my free time, I read tech articles.
 
