@@ -17,7 +17,7 @@
 
 🧠 I’m a cybersecurity student with hands-on experience in vulnerability analysis, secure software development, and runtime sandboxing.  
 🔬 I’m currently researching WebAssembly security and attack vectors in Kubernetes-based runtimes (WasmEdge, Wasmtime).  
-🛠️ My projects include tools for SSRF detection, process monitoring, and PoCs for CVE-based exploitation.  
+🛠️ My projects include tools for SSRF detection, process monitoring.  
 🌐 Actively learning DevSecOps, SOC operations, and cloud-native security.
 
 ---
@@ -33,6 +33,7 @@
 **vgDion/vgDion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+and PoCs for CVE-based exploitation
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
