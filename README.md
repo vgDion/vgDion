@@ -19,6 +19,11 @@
 
 - :zap: In my free time, I read tech articles.
 
+🧠 I’m a cybersecurity student with hands-on experience in vulnerability analysis, secure software development, and runtime sandboxing.  
+🔬 I’m currently researching WebAssembly security and attack vectors in Kubernetes-based runtimes (WasmEdge, Wasmtime).  
+🛠️ My projects include tools for SSRF detection, process monitoring, and PoCs for CVE-based exploitation.  
+🌐 Actively learning DevSecOps, SOC operations, and cloud-native security.
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
