@@ -13,11 +13,7 @@
  ### :man_technologist: About Me :
   I am a cybersecurity student. <img src="https://media.giphy.com/media/fUqv7zNVW2QaHqEgSg/giphy.gif" width="30">
 
-- :desktop_computer: I am actively learning and adapting in information security
 
-- :telescope: I'm studying cloud security. Improve your cybersecurity skills, with a focus on SOC.:shield:
-
-- :zap: In my free time, I read tech articles.
 
 🧠 I’m a cybersecurity student with hands-on experience in vulnerability analysis, secure software development, and runtime sandboxing.  
 🔬 I’m currently researching WebAssembly security and attack vectors in Kubernetes-based runtimes (WasmEdge, Wasmtime).  
@@ -46,4 +42,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- - :desktop_computer: I am actively learning and adapting in information security
+
+- :telescope: I'm studying cloud security. Improve your cybersecurity skills, with a focus on SOC.:shield:
+
+- :zap: In my free time, I read tech articles.
 -->
