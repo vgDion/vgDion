@@ -16,7 +16,7 @@
 
 
 🧠 I’m a cybersecurity student with hands-on experience in vulnerability analysis, secure software development, and runtime sandboxing.  
-🔬 I’m currently researching WebAssembly security and attack vectors in Kubernetes-based runtimes (WasmEdge, Wasmtime).  
+🔬 I’m currently researching WebAssembly security and attack vectors in Kubernetes-based runtimes.  
 🛠️ My projects include tools for SSRF detection, process monitoring.  
 🌐 Actively learning DevSecOps, SOC operations, and cloud-native security.
 
